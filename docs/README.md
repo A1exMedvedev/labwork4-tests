@@ -1,8 +1,8 @@
-#Geometry Shapes Project
+# Geometry Shapes Project
 
 This project consists of a set of Python files that define geometric shapes and provide functionality to calculate their area and perimeter. Additionally, a test file is included to ensure the correctness of the implemented functions using the unittest library.
 
-##Project Structure
+## Project Structure
 
 The project contains the following files:
 
@@ -18,33 +18,33 @@ The project contains the following files:
 
 ##Features
 
-• Circle: 
+1. Circle: 
 
-  • Calculate area using the formula:  π r² 
+  - Calculate area using the formula:  π r² 
 
-  • Calculate perimeter (circumference) using the formula:  2 π r 
+  - Calculate perimeter (circumference) using the formula:  2 π r 
 
-• Square: 
+2. Square: 
 
-  • Calculate area using the formula:  side² 
+  - Calculate area using the formula:  side² 
 
-  • Calculate perimeter using the formula:  4 × side 
+  - Calculate perimeter using the formula:  4 × side 
 
-• Triangle: 
+3. Triangle: 
 
-  • Calculate area using the formula:  ½ × base × height 
+  - Calculate area using the formula:  ½ × base × height 
 
-  • Calculate perimeter by summing the lengths of all three sides.
+  - Calculate perimeter by summing the lengths of all three sides.
 
-• Rectangle: 
+4. Rectangle: 
 
-  • Calculate area using the formula:  length × width 
+  - Calculate area using the formula:  length × width 
 
-  • Calculate perimeter using the formula:  2 × (length + width) 
+  - Calculate perimeter using the formula:  2 × (length + width) 
 
-• Unit Testing: 
+5. Unit Testing: 
 
-  • Tests for each shape's area and perimeter calculations to ensure accuracy.
+  - Tests for each shape's area and perimeter calculations to ensure accuracy.
 
    
 
